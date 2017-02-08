@@ -1,0 +1,56 @@
+.heading-style,
+li
+ol {
+  color: #333;
+  background: #ccc;
+  font-family: "Arial";
+}
+li a {
+  color:#678;
+}
+
+a::before {
+  content: "link"
+}
+a::before {
+  display: "none"
+}
+a::before {
+  content: ""
+}
+
+.container {
+  background-color: yellow;
+  margin: 0 auto;
+  width: 90%;
+}
+.image {
+  position: floating;
+  top: 0;
+  left: 0;
+  max-width: 100px;
+}
+.logo {
+  margin: 0 auto;
+  width: 90%;
+}
+
+.menu {
+  display: table;
+  width: 100%;
+  float: right;
+}
+
+.menu a {
+  display: table-cell;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  color: #832;
+  background: #567;
+}
+
+.menu a:hover {
+  color: #999;
+  background: #232;
+}
