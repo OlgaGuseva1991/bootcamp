@@ -36,9 +36,7 @@ https://www.codecademy.com/learn/learn-the-command-line
 Git
 
 http://nvie.com/posts/a-successful-git-branching-model/
-
 https://www.codecademy.com/learn/learn-git
-
 https://www.codeschool.com/courses/try-git (Alternative)
 
 UX
