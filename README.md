@@ -36,7 +36,9 @@ https://www.codecademy.com/learn/learn-the-command-line
 Git
 
 http://nvie.com/posts/a-successful-git-branching-model/
+
 https://www.codecademy.com/learn/learn-git
+
 https://www.codeschool.com/courses/try-git (Alternative)
 
 UX
@@ -50,15 +52,25 @@ https://www.codeschool.com/courses/discover-devtools
 HTML & CSS
 
 https://www.codecademy.com/learn/web
+
 https://www.codecademy.com/learn/learn-html-css
+
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
+
 https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started
+
 https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
 http://html5doctor.com/
+
 http://learnlayout.com/
+
 https://en.bem.info/
+
 https://css-tricks.com/examples/ShapesOfCSS/
+
 http://flexboxfroggy.com/
+
 http://www.flexboxdefense.com/
 
 Additional resources
