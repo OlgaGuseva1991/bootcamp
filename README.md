@@ -75,3 +75,9 @@ Additional resources
 
 http://semver.org/
 http://caniuse.com/
+
+
+
+Java Script
+http://eloquentjavascript.net/
+http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
