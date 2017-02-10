@@ -81,3 +81,6 @@ http://caniuse.com/
 Java Script
 http://eloquentjavascript.net/
 http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
+
+Best practices for Express app structure
+https://www.terlici.com/2014/08/25/best-practices-express-structure.html
