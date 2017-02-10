@@ -109,3 +109,4 @@ https://source.unsplash.com/
 
 
 http://stackoverflow.com/questions/39758613/how-to-delete-an-item-in-reactjs-when-having-multiple-classes delete
+https://www.reddit.com/r/reactjs/comments/34lzpq/how_do_i_remove_elements_in_react_js/
