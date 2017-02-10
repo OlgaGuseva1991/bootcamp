@@ -104,3 +104,8 @@ https://www.terlici.com/2014/08/25/best-practices-express-structure.html
 
 A simple API for embedding Unsplash photos.
 https://source.unsplash.com/
+
+
+
+
+http://stackoverflow.com/questions/39758613/how-to-delete-an-item-in-reactjs-when-having-multiple-classes delete
