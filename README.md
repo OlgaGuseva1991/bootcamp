@@ -66,6 +66,9 @@ https://babeljs.io/
 https://webpack.github.io/  
 https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q (Youtube channel)  
 https://egghead.io/courses/learn-es6-ecmascript-2015  
+http://eloquentjavascript.net/
+http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
+https://javascript30.com/
 
 ## React & Redux
 https://scotch.io/tutorials/learning-react-getting-started-and-concepts  
@@ -92,11 +95,12 @@ https://www.codecademy.com/apis
 ## Additional resources
 http://semver.org/  
 http://caniuse.com/
+https://coggle.it/diagram/Vz9LvW8byvN0I38x
 
-
-Java Script
-http://eloquentjavascript.net/
-http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
 
 Best practices for Express app structure
 https://www.terlici.com/2014/08/25/best-practices-express-structure.html
+
+
+A simple API for embedding Unsplash photos.
+https://source.unsplash.com/
